@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"Serbatoio","l":"consuma(int)"},{"p":"<Unnamed>","c":"Serbatoio","l":"getLivello()"},{"p":"<Unnamed>","c":"Serbatoio","l":"rifornisci(int)"},{"p":"<Unnamed>","c":"Serbatoio","l":"Serbatoio()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Serbatoio","l":"Serbatoio(int)","u":"%3Cinit%3E(int)"}];updateSearchResults();
