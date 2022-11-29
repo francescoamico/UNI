@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"geometria.figurepiane","l":"Cerchio"},{"p":"geometria.figuresolide","l":"Cubo"},{"p":"geometria.figurepiane","l":"Quadrato"}];updateSearchResults();

@@ -1,0 +1,4 @@
+Ciao a tutti
+Mi chiamo Francesco
+Ho 20 anni
+Frequento il corso di Linguaggi di programmazione presso UNIPA
