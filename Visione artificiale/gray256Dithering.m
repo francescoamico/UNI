@@ -18,7 +18,7 @@ function out=gray256Dithering(img,N)
             if i<h && j>1
                 out(i+1,j-1)=out(i+1,j-1)+error*3/16;
             end
-            if i<h && j<h
+            if i<h && j<w
                 out(i+1,j+1)=out(i+1,j+1)+error*1/16;
             end
         end
