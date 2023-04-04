@@ -1,4 +1,4 @@
-#include "SPLAY.hpp"
+#include "Splay.hpp"
 #include <iostream>
 #include <vector>
 #include <tuple>
@@ -7,7 +7,7 @@
 using namespace std;
 
 int main(){
-    SPLAY<int> tree;
+    Splay<int> tree;
 
     vector<tuple<int,string>> test{
         {7,"addNode"},
@@ -21,10 +21,12 @@ int main(){
         {8, "addNode"},
         {4, "searchNode"},
         {18, "searchNode"},
+        {8, "searchNode"},
         {5, "deleteNode"},
         {5, "searchNode"},
         {2, "deleteNode"},
-        {4, "deleteNode"},
+        {7, "deleteNode"},
+        {3, "deleteNode"},
     };
 
     for(auto [val,action] : test){
