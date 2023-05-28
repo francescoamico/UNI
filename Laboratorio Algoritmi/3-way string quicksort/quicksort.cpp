@@ -17,7 +17,7 @@ void quicksort(std::string arr[], int start, int stop, int l){
 
     if(b>stop) return; //array already sorted
 
-    int ascii_char_pivot = arr[b].at(l); //arr[i] = pivot
+    int ascii_char_pivot = arr[b].at(l); //arr[b] = pivot
     while(true){
         while(b <= c && arr[b].at(l) <= ascii_char_pivot){ //Bentley-Mcllroy partition
             
